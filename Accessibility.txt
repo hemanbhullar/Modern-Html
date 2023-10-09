@@ -1,0 +1,9 @@
+Define accessiblity in the context of web development. Discuss why it's essential to create accessible websites and how it benefits different user groups
+Ans: 
+Accessibility in HTML refers to the practice of designing and coding web content in a way that ensures it can be easily accessed, understood, and interacted with by people of diverse abilities, including those with disabilities.
+This includes using semantic markup, providing alternative text for images and videos, and making sure your web pages are navigable using a keyboard.
+
+it is essential to create accessible websites because There are many reasons:
+- To identify accessibility issues:- It can help you to identify accessibility issues in your website or web application before users with disabilities encounter them.
+- To meet accessibility standards - It can help you to ensure that our website or web application meets accessibility standards.
+- To improve usability - Accessibility automated testing software tools can help us to improve the usability of your website or web application for everyone, not just users with disabilities, as a result, It can help you to increase user satisfaction and engagement.
